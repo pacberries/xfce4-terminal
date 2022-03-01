@@ -1,0 +1,6 @@
+[Configuration]
+Name=Catppuccin
+ColorCursor=#d9d9e0e0eeee
+ColorForeground=#d9d9e0e0eeee
+ColorBackground=#1e1e1e1e2e2e
+ColorPalette=#1e1e1e1e2e2e;#f2f28f8fadad;#ababe9e9b3b3;#fafae3e3b0b0;#9696cdcdfbfb;#f5f5c2c2e7e7;#b5b5e8e8e0e0;#575752526868;#575752526868;#f2f28f8fadad;#ababe9e9b3b3;#fafae3e3b0b0;#9696cdcdfbfb;#f5f5c2c2e7e7;#b5b5e8e8e0e0;#d9d9e0e0eeee
