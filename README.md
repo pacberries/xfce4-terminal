@@ -1,10 +1,18 @@
-# Catppuccin theme for XFCE4 Terminal
-![1544x1544_circle](https://user-images.githubusercontent.com/75707332/157131288-2685df2b-afc0-4255-b1d6-324128dd8836.png)
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin for XFCE4-Terminal
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
-
-
-# Usage:
-Copy the `Catppuccin.colorscheme` file to `~/.local/share/xfce4/terminal/colorschemes`
-Right click XFCE4-Terminal, click on "Preferences...", then go to "Colors"; at the bottom of the screen, click on the dropdown menu, then select `Catppuccin`
 
 ![catppuccin-desktop](https://user-images.githubusercontent.com/75707332/157131143-53d9edfe-f3e8-453f-96ab-be6ead85d510.png)
+
+# Usage:
+1. Clone this repository 
+2. Copy the `Catppuccin.colorscheme` file to `~/.local/share/xfce4/terminal/colorschemes`
+3. Right click XFCE4-Terminal
+4. Click on "Preferences..." 
+5. Then go to "Colors" at the bottom of the screen
+6. Click on the dropdown menu, then select `Catppuccin`
+
