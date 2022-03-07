@@ -1,8 +1,9 @@
 # Catppuccin theme for XFCE4 Terminal
-![catppuccin](https://user-images.githubusercontent.com/75707332/156191686-5ab57262-541e-4c21-b514-c534957e74ce.png)
+![1544x1544_circle](https://user-images.githubusercontent.com/75707332/157131288-2685df2b-afc0-4255-b1d6-324128dd8836.png)
 
 
-# How to install it:
+
+# Usage:
 Copy the `Catppuccin.colorscheme` file to `~/.local/share/xfce4/terminal/colorschemes`
 Right click XFCE4-Terminal, click on "Preferences...", then go to "Colors"; at the bottom of the screen, click on the dropdown menu, then select `Catppuccin`
 
