@@ -5,8 +5,8 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
+![xfce4-terminal](https://user-images.githubusercontent.com/75707332/157138740-02d02ecd-6a53-4fe0-b2b9-4fc13b64b71e.png)
 
-![catppuccin-desktop](https://user-images.githubusercontent.com/75707332/157131143-53d9edfe-f3e8-453f-96ab-be6ead85d510.png)
 
 # Usage:
 1. Clone this repository 
