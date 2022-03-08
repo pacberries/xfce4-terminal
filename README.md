@@ -5,8 +5,9 @@
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-![xfce4-terminal](https://user-images.githubusercontent.com/75707332/157138740-02d02ecd-6a53-4fe0-b2b9-4fc13b64b71e.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pacbru1260/xfce4-terminal/main/assets/xfce4-terminal.png"/>
+</p>
 
 # Usage:
 1. Clone this repository 
