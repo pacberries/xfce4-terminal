@@ -12,8 +12,8 @@
 # 🐭 Usage:
 1. Clone this repository 
 2. Copy the `Catppuccin.colorscheme` file to `~/.local/share/xfce4/terminal/colorschemes`
-3. Right-click XFCE4-Terminal
-4. Click on "Preferences..." 
-5. Then go to "Colors" at the bottom of the screen
-6. Click on the dropdown menu, then select `Catppuccin`
+3. **Right-click** XFCE4-Terminal
+4. Click on **Preferences...**
+5. Then go to **Colors** at the bottom of the screen
+6. **Click on the** dropdown menu, then select `Catppuccin`
 
